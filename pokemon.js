@@ -76,7 +76,7 @@ function handleSearch()
         });
     } else if (nameFilter.checked) {
         filteredPokemons = allPokemons.filter((pokemon) => {
-            pokemon.name.toLowerCase().startsWith(searchTerm);
+            return pokemon.name.toLowerCase().startsWith(searchTerm);
         });
      } else {
         filteredPokemons = allPokemons;
@@ -88,4 +88,13 @@ function handleSearch()
     } else{
         notFoundMessage.style.display = "none";
     }
+}
+
+const closeButton  = document.querySelector(".search-close-icon");
+closeButton.addEventListener("click", clearSearch);
+
+function clearSearch(){
+    searchInput.value = "";
+    displayPokemons(allPokemons);
+    notFoundMessage.style.display = "none";
 }
