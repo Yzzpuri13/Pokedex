@@ -89,7 +89,7 @@ function handleSearch()
         notFoundMessage.style.display = "none";
     }
 }
-
+// cross button
 const closeButton  = document.querySelector(".search-close-icon");
 closeButton.addEventListener("click", clearSearch);
 
