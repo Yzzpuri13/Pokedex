@@ -1,4 +1,4 @@
-<h1>Pokémon Search Application</h1>
+<h1>POKEDEX</h1>
 This web application allows users to search and explore Pokémon data using the PokéAPI.
 
 <h2>Features</h2>
