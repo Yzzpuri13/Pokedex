@@ -28,10 +28,11 @@ Visit the Pokedex live at [https://yzzpuri13.github.io/Pokedex/](https://yzzpuri
 ## Technology Stack
 
 - **HTML & CSS**: Used for structuring and styling the web pages, ensuring a responsive and user-friendly interface.
-- **JavaScript**: Powers the dynamic aspects of the application, such as loading Pokémon data and handling user interactions.
+- **Vanilla JavaScript**: Powers the dynamic aspects of the application, such as loading Pokémon data and handling user interactions.
   - `pokemon.js`: Manages fetching and displaying the list of Pokémon.
   - `pokemon-detail.js`: Handles fetching and presenting detailed data for individual Pokémon.
   - `search.js`: Implements the live search functionality to filter Pokémon by name.
+- [PokéAPI](https://pokeapi.co/) for fetching detailed Pokémon information.  
 
 ## Running Locally
 
