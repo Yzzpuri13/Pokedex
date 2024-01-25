@@ -46,7 +46,7 @@ To run the Pokedex on your local machine:
 ## Acknowledgments
 
 - A heartfelt thank you to [Nintendo](https://www.nintendo.com/), [Game Freak](https://www.gamefreak.co.jp/), and [The Pokémon Company](https://www.pokemon.co.jp/) for creating and maintaining the Pokémon universe. This project is a fan-made tribute intended to celebrate the rich world they've developed.
-- Immense gratitude to [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) for the insightful and comprehensive tutorial. (https://www.youtube.com/watch?v=56VjdqcdakQ&t=3911s)This tutorial was a significant inspiration and resource in the development of this Pokedex project.
+- Immense gratitude to [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) for the insightful and comprehensive tutorial. (https://www.youtube.com/watch?v=56VjdqcdakQ&t=3911s) This tutorial was a significant inspiration and resource in the development of this Pokedex project.
 - Appreciation to [PokéAPI](https://pokeapi.co/) for providing the comprehensive Pokémon data used in this project, making it possible to bring this Pokedex to life.
 
 ## License
